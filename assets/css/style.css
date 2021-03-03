@@ -1,0 +1,148 @@
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.nav-menu ul {
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+    padding-right: 142px;
+    padding-top: 37px;
+}
+
+.nav-menu li {
+    float: right;
+}
+
+.nav-menu li a {
+    display: block;
+    color: rgb(14, 13, 13);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.top-banner {
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+    height: 500px;
+    padding-bottom: 150px;
+}
+
+.half-width {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h1 span {
+    color: orange;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.anchor-button {
+    text-decoration: none;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+p {
+    color: dimgray;
+}
+
+.About-area {
+    background-position: right;
+    height: 230px;
+    padding-bottom: 150px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.project-area {
+    height: 650px;
+    width: 1370px;
+    background-color: #E5E5E5;
+    margin-top: 100px;
+}
+.colorlts{
+    color:#F46060;
+}
+.colorBlue{
+    color:#363958;
+}
+.text-center {
+    text-align: center;
+    padding:5px 0px 0px 5px ;
+}
+.card-area{
+    margin: 10px 100px;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 370px;
+    height: 374px;
+    margin: 0px 10px;
+  float:left;
+  border-radius: 20px;
+  }
+  .card img{
+      width: 100%;
+  }
+  
+ 
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  
+  .container {
+    padding: 2px 25px;
+  }
+
+  .workInquery{
+    width: 906px;
+    height: 155px;
+    margin: 150px auto;
+    background-image: url(/assets/images/shapes/Group_33094_1.png);
+    border-radius: 20px;
+  }
+  .winq{
+    width: 277px;
+height: 64px;
+font-style: normal;
+font-weight: bold;
+font-size: 26px;
+line-height: 64px;
+color: #FFFFFF;
+display: inline-block;
+margin: 50px 0px 0px 70px;
+
+  }
+footer  {
+    text-align: center;
+}
+.workInquery a{
+    
+    margin: 50px 0px 0px 330px;
+}
+.footerIcon img{
+    width: 36.04px;
+height: 36px;
+}
+
